@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: jerrymbata1/nodejs-devops-app:4
+        image: jerrymbata1/nodejs-devops-app:5
 
         ports:
         - containerPort: 3000
